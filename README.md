@@ -24,11 +24,11 @@ Superhero Fly is an exciting browser-based game where you take control of Superm
 
 ##  Features
 
-- **Multiple Difficulty Levels**: Easy, Medium, and Hard modes to suit your skill level.
-- **Responsive Design**: Play seamlessly on desktop, tablet, or mobile devices.
-- **Immersive Sound Effects**: Enjoy background music, jump sounds, and game-over effects.
-- **Dynamic Obstacles**: Randomly generated buildings keep the game challenging and fun.
-- **Score Tracking**: Compete with yourself to beat your high score.
+- **Multiple Difficulty Levels** :  Easy, Medium, and Hard modes to suit your skill level.
+- **Responsive Design** :  Play seamlessly on desktop, tablet, or mobile devices.
+- **Immersive Sound Effects** :  Enjoy background music, jump sounds, and game-over effects.
+- **Dynamic Obstacles** :  Randomly generated buildings keep the game challenging and fun.
+- **Score Tracking** :  Compete with yourself to beat your high score.
 
 ---
 
