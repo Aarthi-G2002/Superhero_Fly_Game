@@ -1,4 +1,4 @@
-# Superhero Fly Game 🦸‍♂
+# Superhero Fly Game 
 
 Superhero Fly is an exciting browser-based game where you take control of Superman, helping him fly through buildings and avoid obstacles. With multiple difficulty levels, dynamic gameplay, and responsive design, this game is perfect for both casual and competitive players.
 
@@ -34,10 +34,7 @@ Superhero Fly is an exciting browser-based game where you take control of Superm
 
 - ## Technologies Used
 
-### HTML :  To create the structure of the game page, including buttons for difficulty selection and a canvas for the game itself.
-### CSS :  For styling the layout and providing a visually appealing user interface. It ensures the game is responsive and playable on all screen sizes.
-### JavaScript : Handles the game logic, including:
-   Detecting user input (arrow keys or spacebar)
-   Collision detection between Superman and buildings
-  Dynamic building generation
-  Scoring system and difficulty management
+- ### HTML : To create the structure of the game page, including buttons for difficulty selection and a section to display the game.
+- ### CSS : For styling the layout and providing a visually appealing user interface. It ensures the game is responsive and playable on all screen sizes.
+- ### JavaScript: Handles the dynamic interactivity, game logic, controls, score tracking, and collision detection.
+
