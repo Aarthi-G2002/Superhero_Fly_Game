@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div class="background" style="background-image:url(image/supermanbg4.jpg);"></div>
+    <!-- Superhero Title Image -->
+    <img src="image/supermantit.jpg" class="title-img" id="title-img">
+    <div class="level-select">
+        <p>Choose Difficulty:</p>
+        <button class="button" onclick="startGame(3, 50)">Easy</button>
+        <button class="button" onclick="startGame(4, 35)">Medium</button>
+        <button class="button" onclick="startGame(5, 25)">Hard</button>
+    </div>
+    <!-- Superman Images -->
+    <img src="image/superman-png-19790.png" class="superhero" id="superhero-1">
+    <img src="image/supermanhit.png" class="superhero-hit" id="superhero-hit">
+    <div class="message" style="display: none;">
+        Press Enter to Start <p><span style="color: red;">&uarr;</span> ArrowUp to Control</p>
+    </div>
+    <div class="score">
+        <span class="score_title">Score: </span>
+        <span class="score_val">0</span>
+    </div>
+
+    <!-- Audio Elements -->
+    <audio id="jumpSound" src="audio/jumpp.mp3" preload="auto"></audio>
+    <audio id="gameOverSound" src="audio/gameover.mp3" preload="auto"></audio>
+    <audio id="backgroundMusic" src="audio/background.mp3" preload="auto" loop></audio>
+
+<script src="script.js"></script>
+</body>
+</html>
