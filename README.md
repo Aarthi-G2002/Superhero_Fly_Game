@@ -38,3 +38,9 @@ Superhero Fly is an exciting browser-based game where you take control of Superm
 - ### CSS : For styling the layout and providing a visually appealing user interface. It ensures the game is responsive and playable on all screen sizes.
 - ### JavaScript: Handles the dynamic interactivity, game logic, controls, score tracking, and collision detection.
 
+
+6. Screenshots:
+I have attached the screenshots below for reference.
+
+
+
