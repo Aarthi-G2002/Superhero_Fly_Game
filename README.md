@@ -40,7 +40,7 @@ Superhero Fly is an exciting browser-based game where you take control of Superm
 
 
 
-6. Screenshots:
+## Screenshots:
 ### I have attached the screenshots below for reference.
 
 
